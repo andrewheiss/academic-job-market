@@ -1,6 +1,10 @@
 The academic job search finally comes to an end
 ================
 
+> See the actual blog post at URL
+
+-----
+
 I am *so beyond thrilled* to announce that I’ll be joining the [Andrew
 Young School of Policy Studies](https://aysps.gsu.edu/) at [Georgia
 State University](https://www.gsu.edu/) in Fall 2019 as an assistant
@@ -24,9 +28,13 @@ in reality it’s awful.
 In an effort to stay On Brand™, here are a bunch of fancy graphs and
 numbers showing what it’s been like to apply for nearly 200 jobs since
 August 2016. Unlike many of my other blog posts, I haven’t included any
-of the code to generate these. That code is all available in a GitHub
-repository, along with the raw data that I’ve collected over the past
-few years (for the morbidly curious).
+of the code to generate these. [That
+code](https://github.com/andrewheiss/academic-job-market/blob/master/README.Rmd)
+is all available in a [GitHub
+repository](https://github.com/andrewheiss/academic-job-market) (see
+`README.Rmd`), along with the [raw
+data](https://github.com/andrewheiss/academic-job-market/blob/master/data/jobs_clean.csv)
+that I’ve collected over the past few years (for the morbidly curious).
 
 # Application count and outcomes
 
@@ -162,9 +170,12 @@ Since the bulk of my applications went to schools in the US and Canada,
 here’s a more zoomed-in map. Because there are occasionally clusters of
 schools—particularly along the east coast—I put a 15-mile radius around
 each school, and if any of those buffer zones overlapped, I increased
-the point size to show how many schools are in that shared area. The
-code for this is actually pretty magical and ingenius—it’s worth it to
-check out the R code for this post just for those calculations :).
+the point size to show how many schools are in that shared area. [The
+code for this is actually pretty magical and
+ingenius](https://github.com/andrewheiss/academic-job-market/blob/master/README.Rmd#L442)—it’s
+worth it to [check out the R
+code](https://github.com/andrewheiss/academic-job-market/blob/master/README.Rmd#L442)
+for this post just for those calculations :).
 
 I applied to schools in 36 states + DC. I didn’t apply to any schools in
 Alaska, Delaware, Iowa, Louisiana, Mississippi, Montana, North Dakota,
