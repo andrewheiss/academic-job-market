@@ -173,9 +173,9 @@ schools—particularly along the east coast—I put a 15-mile radius around
 each school, and if any of those buffer zones overlapped, I increased
 the point size to show how many schools are in that shared area. [The
 code for this is actually pretty magical and
-ingenius](https://github.com/andrewheiss/academic-job-market/blob/master/README.Rmd#L442)—it’s
+ingenius](https://github.com/andrewheiss/academic-job-market/blob/master/README.Rmd#L441)—it’s
 worth it to [check out the R
-code](https://github.com/andrewheiss/academic-job-market/blob/master/README.Rmd#L442)
+code](https://github.com/andrewheiss/academic-job-market/blob/master/README.Rmd#L441)
 for this post just for those calculations :).
 
 I applied to schools in 36 states + DC. I didn’t apply to any schools in
