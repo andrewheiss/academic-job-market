@@ -41,10 +41,11 @@ that I’ve collected over the past few years (for the morbidly curious).
 Between August 31, 2016 and November 18, 2018, I applied for 186
 tenure-track and non-tenure-track academic jobs at R1 schools, liberal
 arts colleges, and teaching-focused public universities. I was offered
-one two-year visiting assistant professorship at the Romney Institute of
-Public Service and Ethics at BYU (where I completed my MPA before
-getting my PhD), and one tenure-track assistant professorship at the
-Andrew Young School at Georgia State University.
+one two-year visiting assistant professorship at the [Romney Institute
+of Public Service and Ethics](https://marriottschool.byu.edu/mpa/) at
+BYU (where I completed my MPA before getting my PhD), and one
+tenure-track assistant professorship at the Andrew Young School at
+Georgia State University.
 
 That’s it. That’s a 98.9% rejection rate. Here’s what the weight of
 rejection looks
@@ -62,43 +63,42 @@ search goes through a few stages:
 
 I made it through different stages of this process with many of the
 schools I applied to. In total, I had 27 Skype interviews and 9 flyouts
-over three years.
+over three years. This waffle plot divides up each of the applications
+by their final outcome (i.e. Skype, flyout, offer), discipline, and
+year. smh polisci.
+
+<img src="README_files/figure-gfm/iron-waffles-1.png" width="672" />
 
 I received my PhD in public policy, with an emphasis in political
 science and international relations. Many faculty at Duke emphasized
-that have a dual emphasis like this would be great for the academic job
-market—because I’m trained in both fields, I could theoretically fit
+that having a dual emphasis like this would be great for the academic
+job market—because I’m trained in both fields, I could theoretically fit
 comfortably in a traditional political science department or in a public
-policy or administration school. I applied to positions offered in both
-types of disciplines, but I was *far* less successful in getting any
+policy or administration department/school. I applied to positions in
+both disciplines, but I was *far* less successful in getting any
 traction in the political science world (even though I attend and
-present research at ISA and APSA pretty regularly and I have published
-in the Journal of Politics ¯\\\_(ツ)\_/¯).
+present research at ISA and APSA pretty regularly and [I have published
+in the Journal of
+Politics](https://www.andrewheiss.com/research/heiss-kelley-2017/)
+¯\\\_(ツ)\_/¯).
 
 My first year on the market, I was split 50/50 between public
 administration/policy jobs and political science jobs. During my second
 year, because I had very little response from political science I
 focused almost entirely on public admin/policy. During this most recent
-cycle, out of desparation I went back to applying to political science
+cycle, out of desperation I went back to applying to political science
 jobs in international relations and comparative politics. In the chart
 below, my proportion of public admin/policy jobs is actually the lowest
 this year, but that’s because (1) political science deadlines are way
 earlier, and (2) I essentially quit applying for jobs. This stopping was
 both because [my mom died
 suddenly](https://www.heissatopia.com/2018/11/thursday-night-and-grandmas-passing.html),
-which completely threw me off the rythym of the market (i.e. I stopped
+which completely threw me off the rhythm of the market (i.e. I stopped
 applying completely until one school graciously e-mailed me to remind me
 to apply), and because I got an amazing job offer. I was on track for
 another 50/50 year, though.
 
 <img src="README_files/figure-gfm/discipline-props-1.png" width="672" />
-
-Beyond knowing the division of proportions, it’s neat to look at how
-successful I was across each of these disciplines in each year. This
-waffle plot divides up each of the applications by their final outcome
-(i.e. Skype, flyout, offer), discipline, and year. smh polsci.
-
-<img src="README_files/figure-gfm/iron-waffles-1.png" width="672" />
 
 # Application timing
 
@@ -125,16 +125,17 @@ over the whole 2.5-year process.
 Writing cover letters generally took ≈45 minutes per school to scour
 each department’s website for relevant programs, centers, faculty, and
 classes. On some of the days where I sent out 5+ applications, I
-occasionally forgot to change the recipient address in the letter, or
-the “I am applying for job X and univeristy Y”, leaving “University Z”
-from the previous application. This was always horrifying, but I got
-Skype interviews out of a couple of those, so I think search committees
-tend to be forgiving about those kinds of mistakes.
+occasionally forgot to change the recipient address in the cover letter,
+or writing “I am applying for job X at university Y” while leaving
+“University Z” from the previous application. This was always
+horrifying, but I got Skype interviews out of a couple of those, so I
+think search committees tend to be forgiving about those kinds of
+mistakes.
 
 This plot shows my pace of applying for jobs. Each dot is a job; each
 column is a week. The fall semester has been the most intense for
 sending out applications. In 2016–17, my record was 16 jobs in one week;
-in 2017–18 it was only 6 (since I severly cut back on political science
+in 2017–18 it was only 6 (since I severely cut back on political science
 jobs); and in 2018–19, I applied for 30 jobs in one week. With a rough
 average of 1 hour per application, [that week was particularly
 intense](https://twitter.com/andrewheiss/status/1046608912617680896).
