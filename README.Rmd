@@ -9,7 +9,7 @@ editor_options:
 knitr::opts_chunk$set(echo = FALSE, fig.retina = 2)
 ```
 
-> See the actual blog post at URL
+> See the [actual blog post](https://www.andrewheiss.com/blog/2018/12/17/academic-job-market-visualized/).
 
 ---
 

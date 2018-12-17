@@ -1,7 +1,8 @@
 The academic job search finally comes to an end
 ================
 
-> See the actual blog post at URL
+> See the [actual blog
+> post](https://www.andrewheiss.com/blog/2018/12/17/academic-job-market-visualized/).
 
 -----
 
